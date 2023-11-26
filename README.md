@@ -1,6 +1,7 @@
 # Density Landing Page
 
- [![image](https://github.com/Jagdish24-uc/density_Landing_page/assets/71270068/0a2e089b-3b5a-407c-b630-21ba763b1bca)
+ [(![image](https://github.com/Jagdish24-uc/density_Landing_page/assets/71270068/cb9adf40-7df2-43f1-bc34-c624b25e6af0)
+)
 ](https://merry-fairy-9e2799.netlify.app/)
 
 ## Description
@@ -52,7 +53,6 @@
 - [Deployment](#deployment)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
