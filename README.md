@@ -1,7 +1,7 @@
 # Density Landing Page
 
- [(![image](https://github.com/Jagdish24-uc/density_Landing_page/assets/71270068/cb9adf40-7df2-43f1-bc34-c624b25e6af0)
-)
+ [![image](https://github.com/Jagdish24-uc/density_Landing_page/assets/71270068/cb9adf40-7df2-43f1-bc34-c624b25e6af0)
+
 ](https://merry-fairy-9e2799.netlify.app/)
 
 ## Description
