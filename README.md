@@ -1,6 +1,6 @@
-# Project Name
+# Density Landing Page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_SITE_ID_HERE/deploy-status)](https://merry-fairy-9e2799.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_SITE_ID_HERE/deployed)](https://merry-fairy-9e2799.netlify.app/)
 
 ## Description
 
